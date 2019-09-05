@@ -6,6 +6,7 @@ Lessons Learned
 - After full sync, only deltas are pushed.
 - Only the data used in the VHD(not in the virtual size) will be sent to Azure and stored in Azure.
 - Express route is recommended for frequent large data
+- Make sure azure subscription has enough cores to receive and not maxed out.
 
 Requirements
 - Windows Server 2012 R2 +
@@ -37,6 +38,12 @@ Steps for failover
 - Select your machines
 - customize failover
 
+Physical and Vmware
+- Requires Config Server (8 cores, 16GB RAM, 2012R2+ and 600 GB Free Disk)
+- configuration server = Use for centralized management
+- process server = Used for caching, compression and encryption
+- Mobility service is running on the physcial server = captures all data writes from memory
+- master target server = Used for FAILBACK only
 
 
 
