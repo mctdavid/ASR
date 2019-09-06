@@ -57,4 +57,13 @@ https://www.petri.com/migration-tools-for-the-azure-hybrid-cloud
 
 https://quadris.co.uk/azure-disaster-recovery-vmware-vms/
 
+https://scomandothergeekystuff.com/2018/08/27/step-by-step-deploying-azure-site-recovery-asr-ovf-template/
+
+https://4sysops.com/archives/azure-backup-vs-azure-site-recovery/
+
+https://argonsys.com/microsoft-cloud/library/track-the-health-of-your-disaster-recovery-with-log-analytics/
+
+http://techgenix.com/azure-site-recovery-disaster/
+
+
 
