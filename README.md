@@ -55,5 +55,6 @@ http://arnaudpain.com/2019/08/28/azure-site-recovery-deployment-planner-for-vmwa
 
 https://www.petri.com/migration-tools-for-the-azure-hybrid-cloud
 
+https://quadris.co.uk/azure-disaster-recovery-vmware-vms/
 
 
