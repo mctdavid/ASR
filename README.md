@@ -49,6 +49,8 @@ Useful Links
 
 https://azure.microsoft.com/en-us/blog/introducing-the-new-azure-migrate-a-hub-for-your-migration-needs/
 
+https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines
+
 http://arnaudpain.com/2019/08/28/azure-site-recovery-deployment-planner-for-vmware-to-azure/#sthash.YNAJdYYG.dpbs
 
 https://www.petri.com/migration-tools-for-the-azure-hybrid-cloud
