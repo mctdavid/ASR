@@ -45,5 +45,11 @@ Physical and Vmware
 - Mobility service is running on the physcial server = captures all data writes from memory
 - master target server = Used for FAILBACK only
 
+Useful Links
+
+http://arnaudpain.com/2019/08/28/azure-site-recovery-deployment-planner-for-vmware-to-azure/#sthash.YNAJdYYG.dpbs
+
+https://www.petri.com/migration-tools-for-the-azure-hybrid-cloud
+
 
 
